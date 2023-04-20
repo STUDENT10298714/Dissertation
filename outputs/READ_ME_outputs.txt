@@ -1,0 +1,1 @@
+This folder will be where all the outputs from the scripts go (or Bin if they are not needed)
