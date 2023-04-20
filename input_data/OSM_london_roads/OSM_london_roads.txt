@@ -1,1 +1,1 @@
-The datafile is too big to store on github thus must be downloaded from GeoFabrik (n.d.) (see Dissertation Methodology) - the name of the file is "gis_osm_roads_free_1"
+The datafile is too big to store on github thus must be downloaded from GeoFabrik (n.d.) (see Dissertation Methodology) - the name of the road file is "gis_osm_roads_free_1" from the main london folder
